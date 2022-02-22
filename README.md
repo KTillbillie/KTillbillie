@@ -1,0 +1,5 @@
+-There once was a man on GitHub
+-Who's life was totally fucked
+-He lived at the pub
+-and his coding sucked
+-Until he got some help from his club
