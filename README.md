@@ -1,5 +1,5 @@
--There once was a man on GitHub \n
--Who's life was totally fucked \n
--He lived at the pub \n
--and his coding sucked \n
--Until he got some help from his club \n
+-There once was a man on GitHub
+-Who's life was totally fucked
+-He lived at the pub
+-and his coding sucked
+-Until he got some help from his club
